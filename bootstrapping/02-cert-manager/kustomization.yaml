@@ -19,7 +19,7 @@ helmCharts:
     releaseName: cert-manager
     namespace: cert-manager
     repo: https://charts.jetstack.io
-    version: "v1.14.4"
+    version: "v1.16.1"
     valuesInline:
       installCRDs: true
       startupapicheck: 
